@@ -13,10 +13,10 @@ const foodImg = new Image()
 foodImg.src = 'food.png'
 
 const eatAudio = new Audio()
-eatAudio.src = 'serpent/eat.mp3'
+eatAudio.src = 'eat.mp3'
 
 const deadAudio = new Audio()
-deadAudio.src = 'serpent/dead.mp3' 
+deadAudio.src = 'dead.mp3' 
 
 const unit = 30 
 let food = {
